@@ -1,0 +1,24 @@
+{
+  "name": "sap-automation-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SAP Automation Dashboard — enterprise reference architecture and platform comparison",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.460.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
